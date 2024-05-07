@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mlando Sibiya</h1>
-<h3 align="center">A passionate frontend and Backend developer from South Africa</h3>
+<h3 align="center">A passionate frontend and backend developer from South Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/0e/0e01e56732d4fae6e63f9fc4beeaded9_w200.webp">
 
 
