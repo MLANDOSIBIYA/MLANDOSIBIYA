@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Food Redistribution System**
 
-- 🌱 I’m currently learning **ASP.NET Core Web API**
+-
 
 - 💬 Ask me about **React JS**
 
